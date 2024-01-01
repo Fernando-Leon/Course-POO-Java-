@@ -1,16 +1,15 @@
 Introducción:
-¡Hola, programadores! Bienvenidos a esta serie de videos en la que exploraremos el fascinante mundo de la Programación Orientada a Objetos, también conocida como POO. En este primer video, vamos a tener una introducción básica para comprender de qué se trata este paradigma de programación.
+
+(Entrada) Bienvenidos a este video donde explicare la metodologia Programación Orientada a Objetos o también conocida como POO. En esta primera seccion, vamos a tener una introducción básica para comprender de qué se trata este paradigma de programación.
 
 Definición de POO:
-La Programación Orientada a Objetos es un enfoque de programación que se basa en el concepto de "objetos". En lugar de ver el programa como una lista de instrucciones para ser ejecutadas, la POO organiza el código en unidades llamadas "objetos", que interactúan entre sí.
+La Programación Orientada a Objetos es un enfoque de programación que se basa en el concepto de "objetos". En lugar de ver el programa como una lista de instrucciones para ser ejecutadas, la POO organiza el código en unidades llamadas "objetos", que interactúan entre sí, en otro concepto definiria la POO como la representacion de los objetos del mundo real llevados estos a la programacion.
 
 Comparación con Otros Paradigmas:
 A diferencia de paradigmas de programación más tradicionales, como la programación procedural, la POO nos permite estructurar nuestro código de una manera más intuitiva y modular. Esto facilita el diseño, la reutilización y el mantenimiento del código a medida que los proyectos crecen en complejidad.
 
 Ejemplo Básico:
-Imaginemos que estamos creando un programa para una biblioteca. En lugar de pensar en el programa como una secuencia lineal de acciones, en la POO podríamos representar libros, usuarios y préstamos como objetos. Cada objeto tendría sus propias propiedades (atributos) y acciones (métodos).
+Imaginemos que estamos creando un programa para una biblioteca. En lugar de pensar en el programa como una secuencia  lineal de acciones, en la POO podríamos representar libros, usuarios y préstamos como objetos. Cada objeto tendría sus propias propiedades (atributos) y acciones (métodos).
 
 Conclusión:
 En resumen, la Programación Orientada a Objetos nos proporciona una forma más natural y eficiente de abordar el desarrollo de software, al organizar el código en entidades lógicas llamadas "objetos". A lo largo de esta serie, exploraremos en detalle conceptos como clases, objetos, herencia, polimorfismo y más.
-
-¡Así que prepárense para sumergirse en el emocionante mundo de la POO! Si les gusta este contenido, no olviden darle like y seguir para no perderse los próximos videos. ¡Hasta luego, programadores! 🚀✨
