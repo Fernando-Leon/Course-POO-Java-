@@ -1,0 +1,1 @@
+# Curse of POO whit Java
